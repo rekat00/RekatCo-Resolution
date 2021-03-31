@@ -1,4 +1,5 @@
 == Stream plan ==
 - content planning
-- no youtube video
+- youtube videos
+
 
