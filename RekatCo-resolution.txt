@@ -1,4 +1,4 @@
-RekatCo Resolution
+== RekatCo Resolution ==
 - Consistent on learning and practicing Web development for three hours everyday
 - Create a portofolio website
 - Try to offer up a portofolio website for others
