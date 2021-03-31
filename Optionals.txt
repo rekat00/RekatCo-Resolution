@@ -1,5 +1,5 @@
 == Stream plan ==
-- Buy webcam
 - content planning
 - youtube videos
+
 
