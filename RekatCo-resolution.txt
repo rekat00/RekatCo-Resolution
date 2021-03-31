@@ -1,5 +1,10 @@
 == RekatCo Resolution ==
 - Consistent on learning and practicing Web development for three hours everyday
+  Contents:
+  1. NodeJs
+  2. OOP
+  3. DOM
+  4. JSON
 - Create a portofolio website
 - Try to offer up a portofolio website for others
 - Never stop, keep going
